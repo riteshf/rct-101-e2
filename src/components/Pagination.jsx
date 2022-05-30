@@ -1,10 +1,20 @@
 import React from "react";
+import { Button, ButtonGroup,Input,Select,Radio, RadioGroup  } from '@chakra-ui/react'
+// import {
+//   Modal,
+//   ModalOverlay,
+//   ModalContent,
+//   ModalHeader,
+//   ModalFooter,
+//   ModalBody,
+//   ModalCloseButton,
+// } from '@chakra-ui/react'
 
 const Pagination = () => {
   // TODO: Remove below const and instead import them from chakra
-  const Button = () => <div />;
-  const ButtonGroup = () => <div />;
-  const Select = () => <div />;
+  // const Button = () => <div />;
+  // const ButtonGroup = () => <div />;
+  // const Select = () => <div />;
 
   return (
     <ButtonGroup>
