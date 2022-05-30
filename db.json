@@ -62,14 +62,7 @@
       "price": "100",
       "imageSrc": "https://picsum.photos/seed/picsum2/421/261",
       "id": 8
-    },
-    {
-      "category": "shirt",
-      "title": "ABCD",
-      "gender": "male",
-      "price": "300",
-      "imageSrc": "https://picsum.photos/seed/picsum2/421/261",
-      "id": 9
     }
+    
   ]
 }
